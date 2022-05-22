@@ -1,0 +1,25 @@
+.banner
+
+{
+
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(https://i.pinimg.com/736x/9a/be/9c/9abe9c6818df811f6e789ebf01a5bb86--architectural-photography-interesting-photos.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 2%;
+
+
+}
+
+.banner h1 {
+	font-size: 90x;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.9;
+	margin-bottom: 50px;
+
+}
